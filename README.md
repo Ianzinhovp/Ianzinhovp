@@ -1,16 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ian&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20em%20Formação&descAlignY=58&descSize=18&animation=fadeIn" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:8000ff,100:da70d6&height=200&section=header&text=Ian&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20em%20Formação&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br>
 
 <!-- Badges de status -->
 <a href="https://github.com/Ianzinhovp">
-  <img src="https://img.shields.io/github/followers/Ianzinhovp?logo=github&style=for-the-badge&color=302b63&labelColor=0f0c29" />
+  <img src="https://img.shields.io/github/followers/Ianzinhovp?logo=github&style=for-the-badge&color=8000ff&labelColor=4b0082" />
 </a>
 <a href="https://github.com/Ianzinhovp">
-  <img src="https://img.shields.io/github/stars/Ianzinhovp?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" />
+  <img src="https://img.shields.io/github/stars/Ianzinhovp?style=for-the-badge&logo=github&color=8000ff&labelColor=4b0082" />
 </a>
 <a href="https://github.com/Ianzinhovp">
-  <img src="https://komarev.com/ghpvc/?username=Ianzinhovp&style=for-the-badge&color=302b63" />
+  <img src="https://komarev.com/ghpvc/?username=Ianzinhovp&style=for-the-badge&color=8000ff" />
 </a>
 
 ---
@@ -50,7 +52,7 @@ hopefully, *make a difference for someone*.
 
 ---
 
-### ⚡ Stack &amp; Tecnologias
+### ⚡ Stack & Tecnologias
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,react&theme=dark" />
@@ -58,10 +60,10 @@ hopefully, *make a difference for someone*.
 
 ---
 
-### 📬 Contato &nbsp;·&nbsp; Contact
+### 📬 Contato · Contact
 
 <a href="mailto:ian.f.goncalves@aluno.senai.br">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=8000ff&logoColor=white&style=for-the-badge" height="28" />
 </a>
 
 ---
@@ -70,6 +72,6 @@ hopefully, *make a difference for someone*.
 
 ![Snake animation](https://raw.githubusercontent.com/Ianzinhovp/Ianzinhovp/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:da70d6,50:8000ff,100:4b0082&height=100&section=footer" />
 
 </div>
